@@ -1,0 +1,17 @@
+{
+  "name": "node-basic-app",
+  "version": "1.0.0",
+  "description": "Simple Node app I created to test running a Node pipeline in Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^4.6.1"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "author": "Malcolm Bonar",
+  "license": "ISC"
+}
